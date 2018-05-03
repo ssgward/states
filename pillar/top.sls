@@ -1,4 +1,4 @@
-base:
+master:
   'SSE':
     - pillar1
   '*2':
